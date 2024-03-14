@@ -43,7 +43,7 @@ function App() {
             <h3>{EXAMPLES[selectedTopic].title}</h3>
             <p>{EXAMPLES[selectedTopic].description}</p>
             <pre>
-              <code>{EXAMPLES[selectedTopic]}.code</code>
+              <code>{EXAMPLES[selectedTopic].code}</code>
             </pre>
           </div>
 
